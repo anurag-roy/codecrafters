@@ -1,0 +1,11 @@
+{
+  "name": "codecrafters-dns-server",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A toy DNS Server",
+  "scripts": {
+    "start": "node --watch app/main.js"
+  },
+  "author": "Anurag Roy<anuragroy@duck.com>",
+  "license": "MIT"
+}
